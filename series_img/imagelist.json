@@ -1,0 +1,15 @@
+{
+"label": "Si07ba_s01",
+"contributor": "Björn Quast",
+"px_dim_unit": "µm",
+"px_dim_x": "0.258",
+"px_dim_y": "0.258",
+"px_dim_z": "5",
+"invertscalebar": false,
+"tilesarray": [
+"./series_img/ob10_052.dzi",
+"./series_img/ob10_053.dzi",
+"./series_img/ob10_054.dzi",
+"./series_img/ob10_055.dzi"
+]
+}
