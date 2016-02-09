@@ -20,6 +20,10 @@ usage:
 A similar project is available as API for webservices at https://github.com/hbz/DeepZoomService
 
 
+BUGS:
+
+ - Image loading is slow when using to high jpg quality (parameter .jpg[Q=100]) in vips command especially when images are more than 100MB in size
+ - when srolling through an image series by mousewheel all images of a series will be requested, until user stops scrolling at the desired image. A skip of requests is needed for images just passed by when scrolling through an image series, otherwise loading of the desired image becomes slow
 
 
 
