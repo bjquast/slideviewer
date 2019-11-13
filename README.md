@@ -6,7 +6,7 @@ see examples here:
 
 http://www.q-terra.de/tagebau/ (german)
 
-http://131.220.138.195/slides/ (resize browser window if no images are available)
+https://physalia.evolution.uni-bonn.de/slides/ (resize browser window if no images are available)
 
 usage:
 
